@@ -17,3 +17,4 @@ fun main(){
     ratonA.tipo = "bluetooth"
     println(ratonA.tipo)
 }
+//Esto es un ejercicio de Kotlin basado en ExampleComputer procedente de Java
